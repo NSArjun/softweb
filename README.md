@@ -658,9 +658,15 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![alt text](<../Screenshot 2024-04-26 102338.png>)
-![alt text](<../Screenshot 2024-04-26 102350.png>)
-![alt text](<../Screenshot 2024-04-26 102358.png>)
-![alt text](<../Screenshot 2024-04-26 102409.png>)
+
+![alt text](pic1.png)
+
+![alt text](pic2.png)
+
+
+![alt text](pic3.png)
+
+![alt text](pic4.png)
+
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
